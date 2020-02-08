@@ -1,10 +1,10 @@
 ;;; stream.el --- Implementation of streams  -*- lexical-binding: t -*-
 
-;; Copyright (C) 2016-2019 Free Software Foundation, Inc.
+;; Copyright (C) 2016-2020 Free Software Foundation, Inc.
 
 ;; Author: Nicolas Petton <nicolas@petton.fr>
 ;; Keywords: stream, laziness, sequences
-;; Version: 2.2.4
+;; Version: 2.2.5
 ;; Package-Requires: ((emacs "25"))
 ;; Package: stream
 
